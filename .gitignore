@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__
+$py.class
+
+# Caches
+*.pyc
+
+# Logs e saída
+*.log
+*.pot
+*.pyz
+__pycache__/
+
+# Arquivos de configuração
+*.swp
+*.ini
+*.cfg
+.idea
+.vscode
+
+# Ambiente virtual
+venv/
+env/
+__pycache__/
+
+# Diretórios específicos para logs e saída
+logs/
+log/
